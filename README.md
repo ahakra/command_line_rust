@@ -15,3 +15,18 @@ Command lines implemented
     -h, --help         Print help
     -V, --version      Print version
     ``` 
+- catr 
+    ```
+    Rust cat
+
+    Usage: catr [OPTIONS] <FILE>...
+
+    Arguments:
+    <FILE>...  Input files(s)
+
+    Options:
+    -n, --number          number all output lines
+    -b, --numbernonblank  numbers non-blank lines
+    -h, --help            Print help
+    -V, --version         Print version
+    ```

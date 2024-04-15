@@ -30,3 +30,17 @@ Command lines implemented
     -h, --help            Print help
     -V, --version         Print version
     ```
+
+- headr
+    ```
+    Usage: headr [OPTIONS] [FILE]...
+
+    Arguments:
+    [FILE]...
+
+    Options:
+    -l, --lines <LINE>  [default: 10]
+    -b, --bytes <BYTE>
+    -h, --help          Print help
+    -V, --version       Print version
+    ```
